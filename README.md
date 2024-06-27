@@ -2,4 +2,4 @@
 
 ## Diagrama UML Solicitado
 
-<img src="https://www.mermaidchart.com/raw/3eacf22c-e9a6-420b-a5af-b77309ea5c4f?theme=dark&version=v0.1&format=svg" alt="UML Mermaid">
+![UML](https://github.com/andrade-regis/dio-trilha-poo-desafio/assets/65834256/ddb089f3-786c-4653-b525-319cd1d1124e)
